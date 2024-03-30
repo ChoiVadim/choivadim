@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Choi Vadim</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">A passionate fullstack developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475s3xyz22lacbroboubzpdkh6ami1ov10uno2ynx3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choivadim&label=Profile%20views&color=0e75b6&style=flat" alt="choivadim" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C, JAVA, PYTHON**
+- 🌱 I’m currently learning **C++, JAVA, PYTHON**
 
 - 📫 How to reach me **tsoivadim@gmail.com**
 

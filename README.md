@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choivadim&label=Profile%20views&color=0e75b6&style=flat" alt="choivadim" /> </p>
+
 ### Hello there 👋
+
 #### A Full-Stack Developer on Weekdays and a Prof Photographer on Weekend 📆
 
 Student at [KWU](https://www.kw.ac.kr/ko/index.jsp);<br>

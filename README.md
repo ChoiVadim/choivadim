@@ -8,7 +8,7 @@
 Student at [KWU](https://www.kw.ac.kr/ko/index.jsp);<br>
 
 - ⚙️ I use daily: `.py`, `.git`, `.psd`.
-- 💬 `ping` me about **SaaS**, **LeetCode**, **Arduino**
+- 💬 `ping` me about **SaaS**, **LeetCode**, **Arduino** or **Photography**
 
 #### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,django,nginx,postman,heroku,c,cpp,js,html,css,sqlite,postgres,git,docker,linux,bash,latex,ps,pr,figma,arduino,raspberrypi&perline=6)](https://skillicons.dev)

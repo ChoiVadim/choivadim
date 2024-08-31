@@ -11,5 +11,5 @@ Student at [KWU](https://www.kw.ac.kr/ko/index.jsp);<br>
 - 💬 `ping` me about **SaaS**, **Arduino**
 
 #### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,cpp,git,arduino,raspberrypi,django,fastapi,flask,heroku,ngonx,postman,docker,linux,bash,latex,ps,pr,figma,sqlite&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,cpp,git,arduino,raspberrypi,django,fastapi,flask,heroku,nginx,postman,docker,linux,bash,latex,ps,pr,figma,sqlite&perline=6)](https://skillicons.dev)
 

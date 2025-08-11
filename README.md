@@ -25,15 +25,3 @@
 
 **📚 Familiar / Used in Projects**
 [![Skills](https://skillicons.dev/icons?i=sass,java,spring,redis,gcp,postman,githubactions,c,cpp,regex,latex,arduino,raspberrypi&perline=8)](https://skillicons.dev)
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choivadim&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choivadim&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-📫 **Let’s connect:** [LinkedIn](https://linkedin.com/in/your-profile) • [Instagram](https://instagram.com/your-photo) • [Portfolio](https://your-portfolio-link.com)

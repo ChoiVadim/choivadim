@@ -24,4 +24,4 @@
 [![Skills](https://skillicons.dev/icons?i=py,fastapi,flask,js,html,css,react,tailwind,sqlite,git,linux,bash,opencv,figma,photoshop&perline=8)](https://skillicons.dev)
 
 **📚 Familiar / Used in Projects**
-[![Skills](https://skillicons.dev/icons?i=c, cpp,java, postgres,nginx,docker,aws,sass,spring,redis,gcp,postman,githubactions,regex,latex,arduino,raspberrypi&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,postgres,nginx,docker,aws,sass,spring,redis,gcp,postman,githubactions,regex,latex,arduino,raspberrypi&perline=8)](https://skillicons.dev)
